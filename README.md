@@ -1,4 +1,4 @@
-[![Release](https://jitpack.io/v/AvatarQing/Flog.svg)](https://www.jitpack.io/#AvatarQing/Flog)
+[![Release](https://jitpack.io/v/AvatarQing/FLog.svg)](https://jitpack.io/#AvatarQing/FLog)
 
 [English README](README-en.md)
 

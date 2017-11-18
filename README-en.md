@@ -1,4 +1,4 @@
-[![Release](https://jitpack.io/v/AvatarQing/Flog.svg)](https://www.jitpack.io/#AvatarQing/Flog)
+[![Release](https://jitpack.io/v/AvatarQing/FLog.svg)](https://jitpack.io/#AvatarQing/FLog)
 
 # FLog
 A simple android logger with great flexibility and scalability which is based on combination of functions
